@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6ec9b0cf-d7a9-4649-9bef-b93f94426b1b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../CHANGES.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../CHANGES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../IOS/Movesense/include/MDS.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../IOS/Movesense/include/MDS.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../IOS/Movesense/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../IOS/Movesense/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../IOS/Movesense/swift/Movesense-Bridging-Header.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../IOS/Movesense/swift/Movesense-Bridging-Header.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../IOS/Movesense/swift/Movesense.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../IOS/Movesense/swift/Movesense.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../IOS/Movesense/swift/Movesense.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../IOS/Movesense/swift/Movesense.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../IOS/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../IOS/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/Podfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp.xcodeproj/project.xcworkspace/xcshareddata/movesense-swiftapp.xcscmblueprint" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp.xcodeproj/project.xcworkspace/xcshareddata/movesense-swiftapp.xcscmblueprint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp.xcodeproj/xcshareddata/xcbaselines/4A5BD3C81DD0B816004B88A2.xcbaseline/E0BEA149-0E95-460E-A20C-E101C9CD3821.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp.xcodeproj/xcshareddata/xcbaselines/4A5BD3C81DD0B816004B88A2.xcbaseline/E0BEA149-0E95-460E-A20C-E101C9CD3821.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp.xcodeproj/xcshareddata/xcbaselines/4A5BD3C81DD0B816004B88A2.xcbaseline/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp.xcodeproj/xcshareddata/xcbaselines/4A5BD3C81DD0B816004B88A2.xcbaseline/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp.xcodeproj/xcshareddata/xcschemes/movesense-swiftapp.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp.xcodeproj/xcshareddata/xcschemes/movesense-swiftapp.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp.xcodeproj/xcuserdata/mikkoalutoin.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp.xcodeproj/xcuserdata/mikkoalutoin.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp/AppDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp/AppDelegate.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp/Assets.xcassets/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp/Assets.xcassets/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp/Assets.xcassets/movesense_color_icon.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp/Assets.xcassets/movesense_color_icon.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp/Base.lproj/LaunchScreen.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp/Base.lproj/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp/BleController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp/BleController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp/DataFile.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp/DataFile.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp/DetailViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp/DetailViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp/DeviceTabController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp/DeviceTabController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp/MemViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp/MemViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp/MovesenseService.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp/MovesenseService.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp/ScanListViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp/ScanListViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp/SubscriptionDetailViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp/SubscriptionDetailViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp/movesense-swiftapp.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftapp/movesense-swiftapp.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftappTests/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftappTests/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftappTests/MovesenseTests.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftappTests/MovesenseTests.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftappUITests/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftappUITests/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftappUITests/movesense_swiftappUITests.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../IOS/iOS-Example/movesense-swiftappUITests/movesense_swiftappUITests.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../Movesense.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../Movesense.podspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/androidTest/java/com/movesense/showcaseapp/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/androidTest/java/com/movesense/showcaseapp/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/androidTest/java/com/movesense/showcaseapp/custom_matchers/RecyclerViewByTextNameMacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/androidTest/java/com/movesense/showcaseapp/custom_matchers/RecyclerViewByTextNameMacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/androidTest/java/com/movesense/showcaseapp/section_00_mainView/DFUTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/androidTest/java/com/movesense/showcaseapp/section_00_mainView/DFUTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/androidTest/java/com/movesense/showcaseapp/section_00_mainView/DfuTimeIdlingResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/androidTest/java/com/movesense/showcaseapp/section_00_mainView/DfuTimeIdlingResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/androidTest/java/com/movesense/showcaseapp/section_00_mainView/MovesenseConnectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/androidTest/java/com/movesense/showcaseapp/section_00_mainView/MovesenseConnectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/BaseActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/BaseActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/BasePresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/BasePresenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/BaseView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/BaseView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/SampleApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/SampleApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/adb/AdbBridge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/adb/AdbBridge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/bluetooth/BluetoothStatusMonitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/bluetooth/BluetoothStatusMonitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/bluetooth/BluetoothStatusReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/bluetooth/BluetoothStatusReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/bluetooth/ConnectingDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/bluetooth/ConnectingDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/bluetooth/ConnectionLostDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/bluetooth/ConnectionLostDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/bluetooth/MdsRx.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/bluetooth/MdsRx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/bluetooth/RxBle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/bluetooth/RxBle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/csv/CsvLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/csv/CsvLogger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/google_drive/SendLogsToGoogleDriveActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/google_drive/SendLogsToGoogleDriveActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/logs/LogsListAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/logs/LogsListAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/AngularVelocity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/AngularVelocity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/EcgInfoResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/EcgInfoResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/EcgModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/EcgModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/EnergyGetModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/EnergyGetModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/HeartRate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/HeartRate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/ImuModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/ImuModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/InfoAppResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/InfoAppResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/InfoModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/InfoModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/InfoResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/InfoResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/LinearAcceleration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/LinearAcceleration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/MagneticField.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/MagneticField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/MdsAddressModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/MdsAddressModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/MdsCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/MdsCallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/MdsConnectedDevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/MdsConnectedDevice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/MdsConnectedDeviceNewSw.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/MdsConnectedDeviceNewSw.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/MdsConnectedDeviceOldSw.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/MdsConnectedDeviceOldSw.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/MdsConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/MdsConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/MdsDeviceInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/MdsDeviceInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/MdsDeviceInfoNewSw.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/MdsDeviceInfoNewSw.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/MdsDeviceInfoOldSw.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/MdsDeviceInfoOldSw.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/MdsEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/MdsEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/MdsHeader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/MdsHeader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/MdsInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/MdsInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/MdsResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/MdsResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/MdsUri.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/MdsUri.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/RxBleDeviceWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/RxBleDeviceWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/Temperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/Temperature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/TemperatureSubscribeModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/TemperatureSubscribeModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/TestItemList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/TestItemList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/ThreadInfoList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/model/ThreadInfoList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_00_mainView/MainViewActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_00_mainView/MainViewActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/MovesenseActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/MovesenseActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/MovesenseAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/MovesenseAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/MovesenseContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/MovesenseContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/MovesenseModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/MovesenseModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/MovesensePresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/MovesensePresenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/device_settings/DeviceSettingsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/device_settings/DeviceSettingsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/sensors/sensors_list/SensorListActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/sensors/sensors_list/SensorListActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/sensors/sensors_list/SensorListContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/sensors/sensors_list/SensorListContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/sensors/sensors_list/SensorListItemModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/sensors/sensors_list/SensorListItemModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/sensors/sensors_list/SensorListPresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/sensors/sensors_list/SensorListPresenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/sensors/sensors_list/SensorsListAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/sensors/sensors_list/SensorsListAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/tests/AngularVelocityActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/tests/AngularVelocityActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/tests/AppInfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/tests/AppInfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/tests/BatteryActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/tests/BatteryActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/tests/EcgActivityGraphView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/tests/EcgActivityGraphView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/tests/EcgLandscapeFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/tests/EcgLandscapeFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/tests/EcgPortraitFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/tests/EcgPortraitFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/tests/HeartRateTestActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/tests/HeartRateTestActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/tests/ImuActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/tests/ImuActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/tests/LedTestActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/tests/LedTestActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/tests/LinearAccelerationTestActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/tests/LinearAccelerationTestActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/tests/MagneticFieldTestActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/tests/MagneticFieldTestActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/tests/MemoryDiagnosticActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/tests/MemoryDiagnosticActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/tests/MultiSubscribeActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/tests/MultiSubscribeActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/tests/TemperatureTestActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_01_movesense/tests/TemperatureTestActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_02_multi_connection/connection/MultiConnectionActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_02_multi_connection/connection/MultiConnectionActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_02_multi_connection/connection/MultiConnectionContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_02_multi_connection/connection/MultiConnectionContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_02_multi_connection/connection/MultiConnectionPresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_02_multi_connection/connection/MultiConnectionPresenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_02_multi_connection/sensor_usage/MultiSensorUsageActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_02_multi_connection/sensor_usage/MultiSensorUsageActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_02_multi_connection/sensor_usage/MultiSensorUsageContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_02_multi_connection/sensor_usage/MultiSensorUsageContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_02_multi_connection/sensor_usage/MultiSensorUsagePresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_02_multi_connection/sensor_usage/MultiSensorUsagePresenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_03_dfu/DfuActivity2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_03_dfu/DfuActivity2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_03_dfu/DfuContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_03_dfu/DfuContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_03_dfu/DfuPresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_03_dfu/DfuPresenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_03_dfu/DfuService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_03_dfu/DfuService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_03_dfu/DfuUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_03_dfu/DfuUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_03_dfu/NotificationActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_03_dfu/NotificationActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_03_dfu/ScannedDevicesAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_03_dfu/ScannedDevicesAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_03_dfu/ScannerFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_03_dfu/ScannerFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_04_saved_data/SavedDataActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_04_saved_data/SavedDataActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_06_about/AboutActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/section_06_about/AboutActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/utils/FormatHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/utils/FormatHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/utils/ThrowableToastingAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/utils/ThrowableToastingAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/utils/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/java/com/movesense/showcaseapp/utils/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/drawable/baseline_poll_24.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/drawable/baseline_poll_24.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/drawable/black_stroke.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/drawable/black_stroke.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/drawable/flash_circle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/drawable/flash_circle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/drawable/google_circles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/drawable/google_circles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/drawable/green_stroke.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/drawable/green_stroke.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/drawable/inactive_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/drawable/inactive_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/drawable/red_stroke.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/drawable/red_stroke.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/drawable/white_stroke.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/drawable/white_stroke.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/drawable/yellow_stroke.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/drawable/yellow_stroke.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_about.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_about.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_angular_velocity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_angular_velocity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_app_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_app_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_base.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_base.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_battery.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_battery.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_device_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_device_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_dfu2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_dfu2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_ecg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_ecg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_heart_rate_test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_heart_rate_test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_imu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_imu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_led_test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_led_test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_linear_acceleration_test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_linear_acceleration_test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_magnetic_field_test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_magnetic_field_test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_main_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_main_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_memory_diagnostic.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_memory_diagnostic.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_movesense.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_movesense.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_multi_connection.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_multi_connection.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_multi_sensor_usage.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_multi_sensor_usage.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_multi_subscribe.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_multi_subscribe.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_saved_data.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_saved_data.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_send_logs_to_google_drive.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_send_logs_to_google_drive.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_sensor_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_sensor_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_temperature_test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/activity_temperature_test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/fragment_ecg_landscape.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/fragment_ecg_landscape.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/fragment_ecg_portrait.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/fragment_ecg_portrait.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/fragment_scan.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/fragment_scan.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/item_movesense.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/item_movesense.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/item_sensor_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/layout/item_sensor_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/menu/menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/menu/menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/menu/send_logs_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/menu/send_logs_menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/raw/kompostisettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/raw/kompostisettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/values-w820dp/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/values-w820dp/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/xml/file_provider_paths.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/main/res/xml/file_provider_paths.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/test/java/com/movesense/showcaseapp/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/test/java/com/movesense/showcaseapp/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Showcaseapp/src/test/java/com/movesense/showcaseapp/section_03_dfu/DfuPresenterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Showcaseapp/src/test/java/com/movesense/showcaseapp/section_03_dfu/DfuPresenterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ConnectivityAPISample/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ConnectivityAPISample/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ConnectivityAPISample/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ConnectivityAPISample/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ConnectivityAPISample/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ConnectivityAPISample/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ConnectivityAPISample/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ConnectivityAPISample/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ConnectivityAPISample/app/src/androidTest/java/com/movesense/samples/connectivityapisample/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ConnectivityAPISample/app/src/androidTest/java/com/movesense/samples/connectivityapisample/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ConnectivityAPISample/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ConnectivityAPISample/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ConnectivityAPISample/app/src/main/java/com/movesense/samples/connectivityapisample/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ConnectivityAPISample/app/src/main/java/com/movesense/samples/connectivityapisample/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ConnectivityAPISample/app/src/main/java/com/movesense/samples/connectivityapisample/MyScanResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ConnectivityAPISample/app/src/main/java/com/movesense/samples/connectivityapisample/MyScanResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ConnectivityAPISample/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ConnectivityAPISample/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ConnectivityAPISample/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ConnectivityAPISample/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ConnectivityAPISample/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ConnectivityAPISample/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ConnectivityAPISample/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ConnectivityAPISample/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ConnectivityAPISample/app/src/test/java/com/movesense/samples/connectivityapisample/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ConnectivityAPISample/app/src/test/java/com/movesense/samples/connectivityapisample/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ConnectivityAPISample/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ConnectivityAPISample/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ConnectivityAPISample/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ConnectivityAPISample/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ConnectivityAPISample/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ConnectivityAPISample/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ConnectivityAPISample/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ConnectivityAPISample/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ConnectivityAPISample/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ConnectivityAPISample/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DataLoggerSample/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DataLoggerSample/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DataLoggerSample/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DataLoggerSample/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DataLoggerSample/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DataLoggerSample/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DataLoggerSample/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DataLoggerSample/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DataLoggerSample/app/src/androidTest/java/com/movesense/samples/dataloggersample/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DataLoggerSample/app/src/androidTest/java/com/movesense/samples/dataloggersample/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DataLoggerSample/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DataLoggerSample/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DataLoggerSample/app/src/main/java/com/movesense/samples/dataloggersample/DataLoggerActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DataLoggerSample/app/src/main/java/com/movesense/samples/dataloggersample/DataLoggerActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DataLoggerSample/app/src/main/java/com/movesense/samples/dataloggersample/DataLoggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DataLoggerSample/app/src/main/java/com/movesense/samples/dataloggersample/DataLoggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DataLoggerSample/app/src/main/java/com/movesense/samples/dataloggersample/DataLoggerState.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DataLoggerSample/app/src/main/java/com/movesense/samples/dataloggersample/DataLoggerState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DataLoggerSample/app/src/main/java/com/movesense/samples/dataloggersample/IntResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DataLoggerSample/app/src/main/java/com/movesense/samples/dataloggersample/IntResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DataLoggerSample/app/src/main/java/com/movesense/samples/dataloggersample/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DataLoggerSample/app/src/main/java/com/movesense/samples/dataloggersample/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DataLoggerSample/app/src/main/java/com/movesense/samples/dataloggersample/MdsLogbookEntriesResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DataLoggerSample/app/src/main/java/com/movesense/samples/dataloggersample/MdsLogbookEntriesResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DataLoggerSample/app/src/main/java/com/movesense/samples/dataloggersample/MyScanResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DataLoggerSample/app/src/main/java/com/movesense/samples/dataloggersample/MyScanResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DataLoggerSample/app/src/main/res/layout/activity_datalogger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DataLoggerSample/app/src/main/res/layout/activity_datalogger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DataLoggerSample/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DataLoggerSample/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DataLoggerSample/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DataLoggerSample/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DataLoggerSample/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DataLoggerSample/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DataLoggerSample/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DataLoggerSample/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DataLoggerSample/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DataLoggerSample/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DataLoggerSample/app/src/test/java/com/movesense/samples/dataloggersample/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DataLoggerSample/app/src/test/java/com/movesense/samples/dataloggersample/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DataLoggerSample/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DataLoggerSample/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DataLoggerSample/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DataLoggerSample/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DataLoggerSample/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DataLoggerSample/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DataLoggerSample/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DataLoggerSample/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DataLoggerSample/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DataLoggerSample/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ECGSample/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ECGSample/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ECGSample/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ECGSample/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ECGSample/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ECGSample/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ECGSample/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ECGSample/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ECGSample/app/src/androidTest/java/com/movesense/samples/ecgsample/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ECGSample/app/src/androidTest/java/com/movesense/samples/ecgsample/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ECGSample/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ECGSample/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ECGSample/app/src/main/java/com/movesense/samples/ecgsample/ECGActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ECGSample/app/src/main/java/com/movesense/samples/ecgsample/ECGActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ECGSample/app/src/main/java/com/movesense/samples/ecgsample/ECGInfoResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ECGSample/app/src/main/java/com/movesense/samples/ecgsample/ECGInfoResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ECGSample/app/src/main/java/com/movesense/samples/ecgsample/ECGResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ECGSample/app/src/main/java/com/movesense/samples/ecgsample/ECGResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ECGSample/app/src/main/java/com/movesense/samples/ecgsample/HRResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ECGSample/app/src/main/java/com/movesense/samples/ecgsample/HRResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ECGSample/app/src/main/java/com/movesense/samples/ecgsample/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ECGSample/app/src/main/java/com/movesense/samples/ecgsample/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ECGSample/app/src/main/java/com/movesense/samples/ecgsample/MyScanResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ECGSample/app/src/main/java/com/movesense/samples/ecgsample/MyScanResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ECGSample/app/src/main/res/layout/activity_ecg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ECGSample/app/src/main/res/layout/activity_ecg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ECGSample/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ECGSample/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ECGSample/app/src/main/res/layout/content_ecg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ECGSample/app/src/main/res/layout/content_ecg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ECGSample/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ECGSample/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ECGSample/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ECGSample/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ECGSample/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ECGSample/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ECGSample/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ECGSample/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ECGSample/app/src/test/java/com/movesense/samples/ecgsample/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ECGSample/app/src/test/java/com/movesense/samples/ecgsample/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ECGSample/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ECGSample/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ECGSample/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ECGSample/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ECGSample/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ECGSample/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ECGSample/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ECGSample/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ECGSample/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ECGSample/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../../proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../androidTest/java/com/movesense/samples/sensorsample/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../androidTest/java/com/movesense/samples/sensorsample/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/movesense/samples/sensorsample/AccDataResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/com/movesense/samples/sensorsample/AccDataResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/movesense/samples/sensorsample/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/com/movesense/samples/sensorsample/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/movesense/samples/sensorsample/MyScanResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/com/movesense/samples/sensorsample/MyScanResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/java/com/movesense/samples/sensorsample/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test/java/com/movesense/samples/sensorsample/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../settings.gradle" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="27" />
+    <option name="width" value="1299" />
+    <option name="height" value="741" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="main" type="1abcf292:AndroidViewProjectNode" />
+              <item name="main" type="e9137016:NonAndroidModuleNode" />
+            </path>
+            <path>
+              <item name="main" type="1abcf292:AndroidViewProjectNode" />
+              <item name="main" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="main" type="1abcf292:AndroidViewProjectNode" />
+              <item name="main" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+              <item name="sensorsample" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AndroidStudioProjects/AndroidStudioGit" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ec9b0cf-d7a9-4649-9bef-b93f94426b1b" name="Default" comment="" />
+      <created>1540424905365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540424905365</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32991454" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Logcat" />
+      <window_info id="Captures" order="2" weight="0.25" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.254589" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gen/com/movesense/samples/sensorsample/R.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen/com/movesense/samples/sensorsample/Manifest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen/com/movesense/samples/sensorsample/BuildConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>main</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

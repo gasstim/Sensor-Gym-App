@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.movesense.movesensedocsample.MainActivity">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        app:layout_constraintTop_toBottomOf="@+id/weightIn"
+        tools:layout_editor_absoluteX="0dp">
+
+        <TextView
+            android:id="@+id/helpText"
+            android:layout_width="384dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="@string/instructions_text" />
+
+        <EditText
+            android:id="@+id/weightIn"
+            android:layout_width="385dp"
+            android:layout_height="42dp"
+            android:ems="10"
+            android:inputType="number"
+            android:text="Enter the weight"
+            app:layout_constraintBottom_toTopOf="@+id/linearLayout"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Button
+            android:id="@+id/enterButton"
+            android:layout_width="372dp"
+            android:layout_height="wrap_content"
+            android:onClick="weightEntered"
+            android:text="Enter" />
+
+        <Button
+            android:id="@+id/StartStop"
+            android:layout_width="128dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            android:onClick="startStop"
+            android:text="Start-Stop"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.196" />
+
+        <Button
+            android:id="@+id/buttonScan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:layout_marginRight="8dp"
+            android:onClick="onScanClicked"
+            android:text="Scan"
+            android:visibility="visible" />
+
+        <Button
+            android:id="@+id/buttonScanStop"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:layout_marginRight="8dp"
+            android:onClick="onScanStopClicked"
+            android:text="Stop Scan"
+            android:visibility="gone" />
+
+        <LinearLayout
+            android:id="@+id/sensorUI"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:visibility="gone"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="8dp">
+
+            <Button
+                android:id="@+id/buttonUnsubscribe"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="onUnsubscribeClicked"
+                android:text="Unsubscribe" />
+
+
+            <TextView
+                android:id="@+id/sensorMsg"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+        <ListView
+            android:id="@+id/listScanResult"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_weight="1">
+
+        </ListView>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/output"
+        android:layout_width="327dp"
+        android:layout_height="303dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.512"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Gym App</string>
+    <string name="instructions_text">Click on scan and then click on the sensor to begin.\n
+        Click and hold on a connected sensor to disconnect from it.
+    </string>
+</resources>
