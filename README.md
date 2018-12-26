@@ -15,3 +15,5 @@ a rep has been found and increments a counter.
 
 If a user has entered what weight they were attempting, it will use the counted reps and the supplied weight value to determine what their
 theoretical one rep max would be.
+
+The attached MainActivity.JAVA contains all of my code, the rest was provided in a Sample App from the Movesense site.
